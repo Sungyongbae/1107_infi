@@ -5,8 +5,6 @@ import telegram
 import pandas as pd
 import numpy as np
 
-access = "JjKKScVhqHgw13kEdXkJOKkJw87fct8S48wAQgCY"
-secret = "ExiLxFFWYwHdsi7mKGS9Fxm9WNI9kfNxF08VuRiC"
 
 TOKEN = '2020050827:AAHKyThn-rkBCgbLaPc_O87OfEDZtwTu7ZY'
 ID = '1796318367'
